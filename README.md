@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Aymane
 
-<!--
-**aymane-akbib/aymane-akbib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year student at the **Faculty of Sciences of Tetouan** (FST), Morocco.
+I'm just starting my journey into tech, with a focus on **Linux, networking, and security**.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
+- Setting up my environment and my first small projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Linux & the command line
+- Networking basics
+- Python & Git
+
+### 🎯 Goals
+- Build public projects and share what I learn
+- Earn my first certification (AWS Cloud Practitioner)
+- Land a first internship in IT / DevOps / security
+
+### 📫 Reach me
+- Email: aymanakbib39@gmail.com
+
+### ⚡ Fun fact
+I train **MMA & boxing** 🥊
